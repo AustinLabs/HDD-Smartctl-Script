@@ -1,4 +1,3 @@
-  GNU nano 4.8                                                                                                      test2.sh
 #! /bin/bash
 #clear old file if exist
 > /home/USERNAME/Documents/scripts/test.txt
